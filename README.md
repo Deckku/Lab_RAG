@@ -15,19 +15,14 @@ The document provided with this lab is **my internship report**, which serves as
 
 ### What We'll Build
 
-In this laboratory session, we implement **2-3 distinct RAG architectures** with varying retrieval and generation strategies to understand:
+In this laboratory session, we implement **a RAG architectures** to understand:
 
 - **Document Processing Pipeline**: Advanced PDF extraction with structure preservation, text cleaning, and semantic chunking
 - **Retrieval System**: FAISS-based vector search with semantic embeddings and intelligent re-ranking mechanisms
 - **Generation Component**: Answer synthesis using Microsoft Phi-2 model with context-aware prompting
 
-Each iteration explores different aspects of the RAG pipeline:
 
-1. **Basic RAG**: Simple retrieval with direct answer generation
-2. **Enhanced RAG**: Semantic chunking and re-ranking for improved relevance
-3. **Production RAG**: Interactive Streamlit interface with quality metrics and history tracking
-
-Through these implementations, we gain deep insight into how RAG systems balance retrieval precision with generation quality, and how architectural choices impact the overall system performance.
+Through this implementation, we gain deep insight into how RAG systems balance retrieval precision with generation quality, and how architectural choices impact the overall system performance.
 
 ## Key Features
 
